@@ -58,9 +58,18 @@ import numpy as np
 
 ## GALLERY
 
+![image](https://github.com/MLeGare29/M11_CHALLENGE/assets/127421460/51b1edc3-decd-445f-a625-3028cd36a313)
+
+![image](https://github.com/MLeGare29/M11_CHALLENGE/assets/127421460/4c8f832c-0528-41c7-a8c7-0aae03669378)
+
+![image](https://github.com/MLeGare29/M11_CHALLENGE/assets/127421460/a0160780-1d4a-442b-ad03-592faadc34eb)
+
+![image](https://github.com/MLeGare29/M11_CHALLENGE/assets/127421460/fd7e9d72-415a-45b3-8b1e-61eb8e1968f5)
+
+![image](https://github.com/MLeGare29/M11_CHALLENGE/assets/127421460/0a0323f4-97e2-4ca9-9096-3e6bc79e9ffa)
 
 
-## CONTRIBUTORS
+### CONTRIBUTORS
 
 *Marcus LeGAre (Author, Developer)*
 
