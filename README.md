@@ -45,7 +45,7 @@ INSTALLS (MUST BE RUN IN EVERY INSTANCE):
 IMPORTS (MUST BE RUN IN EVERY INSTANCE):
 
 ```
-forecasting_net_prophet
+forecasting_net_prophet.ipynb
 import pandas as pd
 import holoviews as hv
 from prophet import Prophet
