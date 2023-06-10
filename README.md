@@ -28,7 +28,7 @@ In order for this immersive application to run, there are installation requireme
 
 [Pandas](https://pandas.pydata.org/) - Grants access to the open-source Pandas data analysis tool, which is powered by Python.
 
-[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables the user to read compiled San Francisco real-estate data.
+[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Enables the user to read the compiled MercadoLibre data.
 
 ## USAGE
 
