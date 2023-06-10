@@ -36,14 +36,16 @@ In order to execute, plot, and simulate this code, you must run the following in
 
 INSTALLS (MUST BE RUN IN EVERY INSTANCE):
 
-```!pip install pystan
+```
+!pip install pystan
 !pip install prophet
 !pip install hvplot
 !pip install holoviews
 ```
 IMPORTS (MUST BE RUN IN EVERY INSTANCE):
 
-```forecasting_net_prophet
+```
+forecasting_net_prophet
 import pandas as pd
 import holoviews as hv
 from prophet import Prophet
