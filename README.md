@@ -1,5 +1,3 @@
-### M11_CHALLENGE
-
 # MERCADOLIBRE GROWTH ANALYSIS & FORECAST
 
 In this Challenge, I have been tasked with using the power of time series implementation to mine, analyze, and forecast the financial and user data for the Latin American e-commerce giant, MercadoLibre. This project will accomplish the following:
